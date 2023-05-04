@@ -1,0 +1,3 @@
+/home/renat/2023_1_Gigachat/client/build/CMakeFiles/client.dir
+/home/renat/2023_1_Gigachat/client/build/CMakeFiles/edit_cache.dir
+/home/renat/2023_1_Gigachat/client/build/CMakeFiles/rebuild_cache.dir
